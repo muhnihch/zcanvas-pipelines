@@ -1,6 +1,0 @@
-input:
-  generate:
-    interval: 1s
-    mapping: 'root.msg = "beta"'
-output:
-  drop: {}
